@@ -1,6 +1,12 @@
-# Willitek Web Source
+# Willitek Corporate Website
 
-This is the source code for the Willitek website. It is built using standard HTML, CSS, and JavaScript.
+This is the source code for the official website of **Công ty TNHH Willitek** (Willitek Co., Ltd).
+
+Willitek is a company that provides software solutions and web development services, including:
+- Sales management software (Phần mềm quản lí bán hàng)
+- Website design and development (Thiết kế website)
+
+The website is built as a static site using standard HTML, CSS, and JavaScript.
 
 ## Development
 
